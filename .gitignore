@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL support
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Network Packet Logs (Jangan upload log asli ke git)
+*.pcap
+*.pcapng
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
